@@ -1,3 +1,3 @@
-def parrot(arguement = "Squawk!"):
-    print (arguement)
-    return(arguement)
+def parrot(name = "Squawk!"):
+    print (name)
+    return(name)
